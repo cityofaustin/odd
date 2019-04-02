@@ -29,6 +29,13 @@ layout: default
   </div>
 </section>
 
+{% include page-section--medium.html	
+  section_headline=page.medium_headline	
+  section_lede=page.medium_lede_markdown	
+  rows=1	
+  button_text=page.medium_button_text	
+  button_path=page.medium_button_path %}
+
 
 {% assign people = site.people | sort: "start_date" | reverse %}
 {% include page-section--people.html
