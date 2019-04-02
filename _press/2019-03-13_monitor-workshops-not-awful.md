@@ -1,5 +1,5 @@
 ---
-title: CTM's Office of Design and Delivery - Corporate workshops should not be awful
+title: CTM's Office of Design and Delivery Says Corporate Workshops Should Not Be Awful
 article_link: https://www.austinmonitor.com/stories/2019/03/ctms-office-of-design-and-delivery-corporate-workshops-should-not-be-awful/
 source: Austin Monitor
 summary: >
