@@ -1,0 +1,54 @@
+---
+title: QA Testing & Automation Engineer
+is_fellow: true
+lever_link:
+position: 1
+lede_markdown: We’re looking for skilled manager and mentor to lead engineering practices for City of Austin’s Design, Technology, and Innovation Fellows program.
+---
+
+## Overview
+We are looking for a skilled and passionate QA Testing & Automation expert. As our project load increases, we are increasingly in need of a point person to help streamline our QA process for current and future projects to ensure we stick to a timely and frequent release schedule without compromising on quality and accessibility for Austin residents.
+
+This is a position of tremendous importance that has the potential for large impact inside our organization and across the city services. You will be an active, creative participant in shaping the future of these practices. We're looking for someone passionate and creative about making the best use of our people and resources to deliver the most impact. This could involve a wide range of activities, from helping solidify existing QA, testing, and release protocols to helping write or review unit tests and set up cross browser testing.
+
+
+## Salary
+
+$75,000-$86,000, commensurate with experience
+
+## What you’ll do:
+
+* Take the lead in collaborating to build and maintain effective testing practices when appropriate, including:
+  * Unit test design and implementation
+  * Evaluation of test coverage
+  * Automated browser testing
+  * Participate in collaborative code reviews with the rest of development staff
+* Serve as a core contributor on multi-disciplinary project teams to improve city services
+* Contribute to Open Source Software projects using Github for collaboration and code review. For a flavor of our current stack, we maintain projects that use:
+    * React.js (Javascript), Python (Django), Node.js, Jekyll (Ruby), Apollo & GraphQL, Docker, Heroku, AWS.
+* Verify that new features/stories/bug fixes are articulated with testing in mind
+* Be an advocate for testability early in the process of determining user stories and project requirements
+* Assist in scoping and prototyping activities for future design and development projects
+* Work closely with your fellow developers as well as our content and design teams to understand new features and projects and how their development can be facilitated by robust and efficient QA
+* Help manage product releases & related regression testing
+* Build and share knowledge of web standards and best practices related to testing and QA
+* Engage with the wider web development community, identifying best practices we can adopt and sharing our experiences
+* Commit to making what we build fully accessible to the people we serve
+
+
+## What we're looking for
+
+* A passion for public service and a commitment to doing the hard work that’s necessary to improve city services
+* 3+ years of professional experience developing large-scale applications and services, including at least 2 years of experience directly with testing, QA, and automation
+* Knowledge and experience with testing frameworks in Javascript and Python
+* Knowledge and experience with browser testing frameworks such as Selenium or Cypress
+* Knowledge of lean and agile development methodologies, including expertise in teaching when and how to use specific specific approaches and deliverables
+* Ability to establish processes that recognize, value, and include different perspectives, experiences, approaches, and cultures to achieve organizational goals
+* Ability to gain and maintain the trust of project stakeholders
+* Ability and interest in cultivating long-term testing & automation best practices into our development workflow
+
+
+## Minimum qualifications
+
+*   Two years of relevant work experience
+*   Graduation from an accredited four-year college or university with major course work in a related field. An additional 4 years of experience can substitute this education requirement.
