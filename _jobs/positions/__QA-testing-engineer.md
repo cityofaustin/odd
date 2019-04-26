@@ -9,7 +9,7 @@ lede_markdown: We’re looking for skilled manager and mentor to lead engineerin
 ## Overview
 We are looking for an experienced, skilled and passionate QA Testing & Automation professional who will help streamline our QA process for current and future projects ensuring timely and frequent release schedules without compromising on quality and accessibility for Austin residents.
 
-This is a position of tremendous importance that has the potential for large impact inside our organization and across the city services. You will be an active, creative participant in shaping the future of these practices. We're looking for someone passionate and creative about making the best use of our people and resources to deliver the most impact. This could involve a wide range of activities, from helping solidify existing QA, testing, and release protocols to helping write or review unit tests and set up cross browser testing.
+This pivotal position has the potential to leverage impact inside our organization and across the city services. The candidate will be instrumental in shaping the future of digital, accessible, and equitable city services. We're looking for someone passionate, creative, resourceful, civic-minded and impact-driven. This may involve a wide range of activities, from helping solidify existing QA, testing, and release protocols to helping write or review unit tests and set up cross-browser testing.
 
 
 ## Salary
