@@ -23,7 +23,7 @@ $75,000-$86,000, commensurate with experience
   * Evaluating test coverage. 
   * Setting up automated browser testing. 
   * Participating in collaborative code reviews with the rest of development staff. 
-* Serve as a core contributor on multi-disciplinary project teams to improve city services
+* Serve as a core contributor on multi-disciplinary project teams to improve city services. 
 * Contribute to Open Source Software projects using Github for collaboration and code review. For a flavor of our current stack, we maintain projects that use:
     * React.js (Javascript), Python (Django), Node.js, Jekyll (Ruby), Apollo & GraphQL, Docker, Heroku, AWS.
 * Verify that new features/stories/bug fixes are articulated with testing in mind
