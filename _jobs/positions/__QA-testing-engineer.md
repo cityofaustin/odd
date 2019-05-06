@@ -20,7 +20,7 @@ $75,000-$86,000, commensurate with experience
 
 * Take the lead in collaborating to build and maintain effective testing practices when appropriate, including:
   * Designing and implementing unit tests. 
-  * Evaluation of test coverage
+  * Evaluating test coverage. 
   * Automated browser testing
   * Participate in collaborative code reviews with the rest of development staff
 * Serve as a core contributor on multi-disciplinary project teams to improve city services
