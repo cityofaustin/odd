@@ -19,7 +19,7 @@ $75,000-$86,000, commensurate with experience
 ## What you’ll do:
 
 * Take the lead in collaborating to build and maintain effective testing practices when appropriate, including:
-  * Unit test design and implementation
+  * Designing and implementing unit tests. 
   * Evaluation of test coverage
   * Automated browser testing
   * Participate in collaborative code reviews with the rest of development staff
