@@ -29,7 +29,7 @@ $75,000-$86,000, commensurate with experience
 * Verify that new features, stories, and bug fixes are articulated with testing in mind. 
 * Be an advocate for testability early in the process of determining user stories and project requirements. 
 * Assist in scoping and prototyping activities for future design and development projects. 
-* Work closely with your fellow developers as well as our content and design teams to understand new features and projects and how their development can be facilitated by robust and efficient QA
+* Work closely with your fellow developers as well as content and design teams to understand new features and projects, watching out for ways their development can be facilitated by robust and efficient QA. 
 * Help manage product releases and related regression testing. 
 * Build and share knowledge of web standards and best practices related to testing and QA
 * Engage with the wider web development community, identifying best practices we can adopt and sharing what we're building and learning. 
