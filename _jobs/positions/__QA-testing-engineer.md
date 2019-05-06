@@ -26,7 +26,7 @@ $75,000-$86,000, commensurate with experience
 * Serve as a core contributor on multi-disciplinary project teams to improve city services. 
 * Contribute to Open Source Software projects using Github for collaboration and code review. For a flavor of our current stack, we maintain projects that use:
     * React.js (Javascript), Python (Django), Node.js, Jekyll (Ruby), Apollo & GraphQL, Docker, Heroku, and AWS.
-* Verify that new features/stories/bug fixes are articulated with testing in mind
+* Verify that new features, stories, and bug fixes are articulated with testing in mind. 
 * Be an advocate for testability early in the process of determining user stories and project requirements. 
 * Assist in scoping and prototyping activities for future design and development projects. 
 * Work closely with your fellow developers as well as our content and design teams to understand new features and projects and how their development can be facilitated by robust and efficient QA
