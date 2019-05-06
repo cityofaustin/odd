@@ -33,7 +33,7 @@ $75,000-$86,000, commensurate with experience
 * Help manage product releases and related regression testing. 
 * Build and share knowledge of web standards and best practices related to testing and QA
 * Engage with the wider web development community, identifying best practices we can adopt and sharing what we're building and learning. 
-* Commit to making what we build fully accessible to the people we serve
+* Commit to making what we build fully accessible to the people we serve.
 
 
 ## What we're looking for
