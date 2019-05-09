@@ -41,7 +41,7 @@ $75,000-$86,000, commensurate with experience
 * A passion for public service and a commitment to doing the hard work that’s necessary to improve city services
 * 3+ years of professional experience developing applications and services, including at least 2 years of direct experience with testing, QA, and automation. 
 * Knowledge and experience with testing frameworks in Javascript and Python
-* Knowledge and experience with browser testing frameworks such as Selenium or Cypress
+* Knowledge of or experience with browser testing frameworks such as Selenium or Cypress. 
 * Knowledge of lean and agile development methodologies, including expertise in teaching when and how to use specific specific approaches and deliverables
 * Ability to establish processes that recognize, value, and include different perspectives, experiences, approaches, and cultures to achieve organizational goals
 * Ability to gain and maintain the trust of project stakeholders
