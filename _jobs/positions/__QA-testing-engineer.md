@@ -3,7 +3,7 @@ title: QA Testing & Automation Engineer
 is_fellow: true
 lever_link:
 position: 1
-lede_markdown: We’re looking for skilled manager and mentor to lead engineering practices for City of Austin’s Design, Technology, and Innovation Fellows program.
+lede_markdown: We’re looking for a skilled manager and mentor to lead engineering practices for City of Austin’s Office of Design and Delivery.
 ---
 
 ## Overview
