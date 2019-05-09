@@ -3,7 +3,7 @@ title: QA Testing & Automation Engineer
 is_fellow: true
 lever_link:
 position: 1
-lede_markdown: We’re looking for a skilled manager and mentor to lead engineering practices for City of Austin’s Office of Design and Delivery.
+lede_markdown: We're looking for a skilled quality assurance engineer to collaborate with the City of Austin’s Office of Design and Delivery on incorporating effective testing practices into every development cycle.
 ---
 
 ## Overview
