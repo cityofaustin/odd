@@ -34,4 +34,4 @@ Temporary positions at the City of Austin are not eligible for holidays or other
 The lack of paid time off can be significant inconvenience for all of us, so we encourage our employees to flex their hours over the course of each two-week pay period (for example, working 48 hours during the first week and 32 hours the following week). Temporary employees can also choose to take unpaid leave as needed.
 
 ### Insurance
-Temporary positions at the City of Austin are not be eligible for health insurance for the first year. Our employees who work beyond their initial one-year term become eligible for health insurance from the City in their second year.
+Temporary positions at the City of Austin are not eligible for health insurance for the first year. Our employees who work beyond their initial one-year term become eligible for health insurance from the City in their second year.
