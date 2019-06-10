@@ -9,9 +9,9 @@ lede_markdown: "We’re looking for a mid to senior Full Stack developer to serv
 
 ## Overview
 
-Our team is working to improve a wide range of city services, which have included researching and redesigning our [permitting processes](http://permittingatx.com/) [(repo)](https://github.com/cityofaustin/Residential-Permitting), prototyping ways to change behaviors around [recycling and composting](http://projects.austintexas.io/projects/vision-zero-waste/about/overview/), building the next generation of [CTXFloods](http://floods.austintexas.io/) [(repo)](https://github.com/cityofaustin/ctxfloods), and creating city-wide standards for interface design, web infrastructure, and automated testing with [Austin.gov](https://alpha.austin.gov/) [(repo)](https://github.com/cityofaustin/janis).
+Our team is working to improve a wide range of city services, which have included researching and redesigning our [permitting processes](http://permittingatx.com/) [(repo)](https://github.com/cityofaustin/Residential-Permitting), prototyping ways to change behaviors around [recycling and composting](http://projects.austintexas.io/projects/vision-zero-waste/about/overview/), building the next generation of [CTXFloods](http://floods.austintexas.io/) [(repo)](https://github.com/cityofaustin/ctxfloods), creating feedback forms for the [Office of Police Oversight](https://forms.austin.gov/police-complain/introduction) [(repo)](https://github.com/cityofaustin/coa-forms), and creating city-wide standards for interface design, web infrastructure, and automated testing with [Austin.gov](https://alpha.austin.gov/) [(repo)](https://github.com/cityofaustin/janis).
 
-You’ll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for other fellows and city staff. 
+You’ll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for other fellows and city staff.
 
 ## Salary
 
@@ -20,7 +20,7 @@ $75,000-$86,000, commensurate with experience
 ## What will you do?
 
 - Contribute to Open Source Software projects using Github for collaboration and code review. For a flavor of our current stack, we maintain projects that use:
-  - React.js (Javascript), Python (Django), Node.js, Jekyll (Ruby), Apollo & GraphQL, Docker, Heroku, AWS.
+  - React.js (Javascript), Python (Django), Node.js, Apollo & GraphQL, Docker, Heroku, AWS.
 - Work with other developers on Office of Design & Delivery team to establish new standards for web development based on modern languages, frameworks, and best practices
 - Serve as a core contributor on multi-disciplinary project teams to improve city services
 - Assist in scoping and prototyping activities for future design and development projects
