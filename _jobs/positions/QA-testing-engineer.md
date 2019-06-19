@@ -1,5 +1,5 @@
 ---
-title: QA Testing & Automation Engineer
+title: QA Testing Engineer
 is_fellow: true
 lever_link: https://boards.greenhouse.io/oddaustin/jobs/4282159002
 position: 1
