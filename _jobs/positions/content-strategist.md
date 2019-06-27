@@ -1,15 +1,16 @@
 ---
-title: Content Strategist		
+title: Content Strategist
 is_fellow: true
 lever_link: https://boards.greenhouse.io/oddaustin/jobs/4036303002
 position: 1
-lede_markdown: We’re looking for a senior content strategist to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design.
-Our teams are working to improve a wide range of city services, including researching and redesigning our permitting processes, prototyping ways to change behaviors around recycling and composting, designing the future of austin.gov, and creating city-wide standards for service design, web development, and user research.
-As a member of our Office of Design & Delivery, you’ll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for your team members and all city staff.
+lede_markdown: "We’re looking for a senior content strategist to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design.
+Our teams are working to improve a wide range of city services, including researching and redesigning our permitting processes, prototyping ways to change behaviors around recycling and composting, designing the future of austin.gov, and creating city-wide standards for service design, web development, and user research."
 
 ---
+
+
 ## Overview
-Our teams are working to improve a wide range of city services, including researching and redesigning our [permitting processes](http://permittingatx.com/), prototyping ways to change behaviors around [recycling and composting](http://projects.austintexas.io/projects/vision-zero-waste/about/overview/), designing the future of [austin.gov](http://alpha.austin.gov/), and creating city-wide standards for service design, web development, and user research.		
+Our teams are working to improve a wide range of city services, including researching and redesigning our [permitting processes](http://permittingatx.com/), prototyping ways to change behaviors around [recycling and composting](http://projects.austintexas.io/projects/vision-zero-waste/about/overview/), designing the future of [austin.gov](http://alpha.austin.gov/), and creating city-wide standards for service design, web development, and user research.
 
 As a member of our [Office of Design & Delivery](http://odd.austintexas.io/), you'll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for your team members and all city staff.
 
@@ -32,7 +33,7 @@ $70,000-$80,000, commensurate with experience
 *   Serve as a subject matter expert in the hiring process for additional design and technology specialists
 		
 
-#### What we’re looking for		
+## What we’re looking for		
 
 *   Three years of professional experience designing content for online experiences, websites, applications, or advertising
 *   Knowledge of lean and agile design methodologies, including expertise in determining when and how to use specific approaches, deliverables, and facilitation methods
