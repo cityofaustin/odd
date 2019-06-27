@@ -3,8 +3,7 @@ title: Content Strategist
 is_fellow: true
 lever_link: https://boards.greenhouse.io/oddaustin/jobs/4036303002
 position: 1
-lede_markdown: "We’re looking for a senior content strategist to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design.
-Our teams are working to improve a wide range of city services, including researching and redesigning our permitting processes, prototyping ways to change behaviors around recycling and composting, designing the future of austin.gov, and creating city-wide standards for service design, web development, and user research."
+lede_markdown: "We’re looking for a senior content strategist to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design."
 
 ---
 
