@@ -12,9 +12,18 @@ We are looking for an experienced, skilled, and passionate QA Testing & Automati
 
 This vital position has the potential to create positive change inside our organization and across City of Austin services. The person in this role will be instrumental in shaping the future of digital, accessible, and equitable city services. We're looking for someone passionate, creative, resourceful, civic-minded, and impact-driven. This may involve a wide range of activities, from helping solidify existing QA, testing, and release protocols to helping write or review unit tests and set up cross-browser testing.
 
-## Salary
+## Salary and Benefits
 
-$75,000-$86,000, commensurate with experience
+- $75,000-$86,000, commensurate with experience
+- Flexible hours and remote working days
+- City employee discounts and perks (free transit pass for buses and metro, free admission to Barton Springs, and more)
+
+This is a full time, 40-hour/week position with no term limit. However, it is designated as a "temporary position" within the City. This means that:
+
+- No health insurance is offered for the first year of employment
+- No paid vacation is offered, but temporary employees can take unpaid time off as needed
+
+You can learn more about benefits here: https://odd.austintexas.io/join/information/benefits/
 
 ## What you’ll do:
 
