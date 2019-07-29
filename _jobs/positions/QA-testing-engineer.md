@@ -1,5 +1,5 @@
 ---
-title: QA Testing & Automation Engineer
+title: QA Testing Engineer
 is_fellow: true
 lever_link: https://boards.greenhouse.io/oddaustin/jobs/4282159002
 position: 1
@@ -8,7 +8,7 @@ lede_markdown: We're looking for a skilled quality assurance engineer to collabo
 
 ## Overview
 
-We are looking for an experienced, skilled, and passionate QA Testing & Automation professional to help streamline our QA process for current and future projects. The person in this role will ensure timely and frequent release schedules without compromising on quality and accessibility for Austin residents.
+We are looking for an experienced, skilled, and passionate QA Testing professional to help streamline our QA process for current and future projects. The person in this role will ensure timely and frequent release schedules without compromising on quality and accessibility for Austin residents.
 
 This vital position has the potential to create positive change inside our organization and across City of Austin services. The person in this role will be instrumental in shaping the future of digital, accessible, and equitable city services. We're looking for someone passionate, creative, resourceful, civic-minded, and impact-driven. This may involve a wide range of activities, from helping solidify existing QA, testing, and release protocols to helping write or review unit tests and set up cross-browser testing.
 
@@ -21,8 +21,8 @@ $75,000-$86,000, commensurate with experience
 - Take the lead in collaborating to build and maintain effective testing practices when appropriate, including:
   - Designing and implementing unit tests.
   - Evaluating test coverage.
-  - Setting up automated browser testing.
   - Participating in collaborative code reviews with the rest of development staff.
+  - Setting up automated browser testing.
 - Serve as a core contributor on multi-disciplinary project teams to improve city services.
 - Contribute to Open Source Software projects using Github for collaboration and code review. For a flavor of our current stack, we maintain projects that use:
   - React.js (Javascript), Python (Django), Node.js, Jekyll (Ruby), Apollo & GraphQL, Docker, Heroku, and AWS.
