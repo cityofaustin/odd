@@ -15,13 +15,13 @@ This vital position has the potential to create positive change inside our organ
 ## Salary and Benefits
 
 - $75,000-$86,000, commensurate with experience
-- Flexible hours and remote working days
+- Flexible hours and remote work days
 - City employee discounts and perks (free transit pass for buses and metro, free admission to Barton Springs, and more)
 
-This is a full time, 40-hour/week position with no term limit. However, it is designated as a "temporary position" within the City. This means that:
+This is a full time, 40-hour/week position with no term limit. However, it is designated as a "temporary position" within the City. This means:
 
-- No health insurance is offered for the first year of employment
-- No paid vacation is offered, but temporary employees can take unpaid time off as needed
+- No health insurance offered during the first year of employment
+- No paid vacation offered, but temporary employees can take unpaid time off as needed
 
 You can learn more about benefits here: https://odd.austintexas.io/join/information/benefits/
 
