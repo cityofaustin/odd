@@ -26,7 +26,7 @@ This is a full time, 40-hour/week position with no term limit. However, it is de
 - No health insurance offered during the first year of employment
 - No paid vacation offered, but temporary employees can take unpaid time off as needed
 
-Learn more about benefits here: https://odd.austintexas.io/join/information/benefits/
+Learn more about benefits here: [https://odd.austintexas.io/join/information/benefits/]
 
 ## What will you do?
 
