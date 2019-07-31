@@ -3,19 +3,30 @@ title: Full Stack Developer
 is_fellow: true
 lever_link: https://boards.greenhouse.io/oddaustin/jobs/4043411002
 position: 8
-lede_markdown: "We’re looking for a mid to senior Full Stack developer to serve on a multidisciplinary project team with career civil servants, actively demonstrating the value of iterative development and user-centered design."
+lede_markdown: "We’re looking for a mid to senior Full Stack developer to serve on a multidisciplinary project team, with career civil servants, actively demonstrating the value of iterative development and user-centered design."
 
 ---
 
 ## Overview
 
-Our team is working to improve a wide range of city services, which have included researching and redesigning our [permitting processes](http://permittingatx.com/) [(repo)](https://github.com/cityofaustin/Residential-Permitting), prototyping ways to change behaviors around [recycling and composting](http://projects.austintexas.io/projects/vision-zero-waste/about/overview/), building the next generation of [CTXFloods](http://floods.austintexas.io/) [(repo)](https://github.com/cityofaustin/ctxfloods), creating feedback forms for the [Office of Police Oversight](https://forms.austin.gov/police-complain/introduction) [(repo)](https://github.com/cityofaustin/coa-forms), and creating city-wide standards for interface design, web infrastructure, and automated testing with [Austin.gov](https://alpha.austin.gov/) [(repo)](https://github.com/cityofaustin/janis).
+We're a team of passionate, civic-minded professionals who work to bring the principles, values, and practices of the technology sector into government with one goal in mind - improve the lives of Austin’s residents.
 
-You’ll also serve as an expert and educator in your discipline, establishing new practices that can work across departments and providing guidance and training for other fellows and city staff.
+We’re looking for a mid to senior Full Stack developer to serve on a multidisciplinary project team, with career civil servants, actively demonstrating the value of iterative development and user-centered design. Kind and talented developers interested in helping with frontend development (React.js, sass), backend development (Python APIs, Django MVC, node.js), or devops (Heroku, AWS) are strongly encouraged to apply.
 
-## Salary
+Our team is working to improve a wide range of city services, which have included researching and redesigning our permitting processes (Github), prototyping ways to change behaviors around recycling and composting, building the next generation of CTXFloods (Github), dev and creating city-wide standards for interface design, web infrastructure, and automated testing with Austin.gov (Github).
 
-$75,000-$86,000, commensurate with experience
+## Salary and Benefits
+
+- $75,000-$86,000, commensurate with experience
+- Flexible hours and remote work days
+- City employee discounts and perks (free transit pass for buses and metro, free admission to Barton Springs, and more)
+
+This is a full time, 40-hour/week position with no term limit. However, it is designated as a "temporary position" within the City. This means:
+
+- No health insurance offered during the first year of employment
+- No paid vacation offered, but temporary employees can take unpaid time off as needed
+
+Learn more about benefits here: https://odd.austintexas.io/join/information/benefits/
 
 ## What will you do?
 
