@@ -1,7 +1,7 @@
 ---
-title: QA Testing & Automation Engineer
+title: QA Testing Engineer
 is_fellow: true
-lever_link: https://boards.greenhouse.io/oddaustin/jobs/4282159002
+lever_link: https://boards.greenhouse.io/oddaustin/jobs/4381989002
 position: 1
 lede_markdown: We're looking for a skilled quality assurance engineer to collaborate with the City of Austin’s Office of Design and Delivery on incorporating effective testing practices into every development cycle.
 ---
@@ -23,7 +23,7 @@ This is a full time, 40-hour/week position with no term limit. However, it is de
 - No health insurance offered during the first year of employment
 - No paid vacation offered, but temporary employees can take unpaid time off as needed
 
-You can learn more about benefits here: [https://odd.austintexas.io/join/information/benefits/]
+You can learn more about benefits here: https://odd.austintexas.io/join/information/benefits/
 
 ## What you’ll do:
 
