@@ -57,3 +57,5 @@ Learn more about benefits here: [https://odd.austintexas.io/join/information/be
 
 *   Two years of relevant work experience
 *   Graduation from an accredited four-year college or university with major course work in a related field. An additional 4 years of experience can substitute this education requirement.
+
+Note: we are not able to sponsor H1-B visas.
