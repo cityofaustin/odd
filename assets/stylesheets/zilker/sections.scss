@@ -19,6 +19,14 @@ section {}
   height: 40vh;
   max-height: 400px;
 }
+
+.page-photo-header-about-joy {
+  background: url('../img/about-joy.jpg') no-repeat center;
+  background-size: cover;
+  height: 40vh;
+  max-height: 400px;
+}
+
 .page-header + .page-section {
   padding-top: 0;
 }
