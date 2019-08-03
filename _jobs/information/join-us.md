@@ -8,7 +8,7 @@ lede_markdown: We are a team of passionate, civic-minded professionals who work 
 ---
 
 
-We're currently looking for [Front End Developers](/join/positions/front-end-developer/) to work on projects like [alpha.austin.gov](http://alpha.austin.gov/).
+We're currently looking for a [Full Stack Developer](/join/positions/Full-Stack-Developer/) and a [QA Testing & Automation Engineer](/join/positions/QA-testing-engineer/) to work on projects like [alpha.austin.gov](http://alpha.austin.gov/).
 
 Our terms are for 12 months of full-time work (40 hours each week), with opportunities to apply for permanent positions at the city. [Learn about Benefits](/join/information/benefits/)
 
