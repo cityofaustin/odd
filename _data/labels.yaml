@@ -18,8 +18,8 @@ site_nav:
     path: /about/
   - label: How We Work
     path: /how-we-work/
-  - label: Projects
-    path: /projects/
+  - label: Service Design Lab
+    path: /service-design/
   #  - label: Events
   #   path: /events/
   - label: Civiqueso
