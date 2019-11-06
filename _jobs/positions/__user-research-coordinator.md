@@ -22,7 +22,7 @@ $41,600-$54,080, commensurate with experience
 
 ## What you’ll do:		
 * Manage day-to-day communication and logistics for recruiting and scheduling interviews
-* Assist in facilitating field research with residents, collecting notes, photos, and video during sessions
+* Develop usability test plans and facilitate field research with residents, collecting notes, photos, and video during sessions
 * Organize and share notes and feedback after each round of research using online collaboration tools
 * Develop relationships with community leaders to build trust between our teams and the people we serve
 * Document repeatable practices for user research that we can share across projects, departments, and other cities
