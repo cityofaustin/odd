@@ -10,7 +10,7 @@ lede_markdown: We're looking for a quality assurance leader to collaborate with 
 
 We are looking for an experienced, skilled, and passionate QA Lead to establish sustainable quality assurance processes and testing methods that will allow for the continuous delivery of software products. The person in this role will ensure timely and frequent release schedules without compromising on quality and accessibility for Austin residents.
 
-This vital position has the potential to create positive change inside our organization and across City of Austin services. The person in this role will be instrumental in shaping the future of, accessible, and equitable digital services at the City of Austin. We're looking for someone passionate, creative, resourceful, civic-minded, and impact-driven. 
+This vital position has the potential to create positive change inside our organization and across City of Austin services. The person in this role will be instrumental in shaping the future of accessible and equitable digital services at the City of Austin. We're looking for someone who is passionate, creative, resourceful, civic-minded, and impact-driven. 
 
 ## Salary and Benefits
 
