@@ -12,7 +12,7 @@ We are looking for an experienced, skilled, and passionate QA Lead to establish 
 
 This vital position has the potential to create positive change inside our organization and across City of Austin services. The person in this role will be instrumental in shaping the future of accessible and equitable digital services at the City of Austin. We're looking for someone who is passionate, creative, resourceful, civic-minded, and impact-driven. 
 
-## Salary and Benefits
+## Salary and benefits
 
 - $75,000-$86,000, commensurate with experience
 - Flexible hours and remote work days
@@ -26,7 +26,7 @@ This is a full time, 40-hour/week position with no term limit. However, it is de
 You can learn more about benefits here:
 https://odd.austintexas.io/join/information/benefits/
 
-## What you’ll do:
+## What you’ll do
 - Develop and own the strategy for automated and manual testing with the goal of achieving continuous delivery of our products, including our frontend resident interface (alpha.austin.gov) and backend author interface.
 - Determine when to use the appropriate QA strategies, including unit testing, regression testing, cross-browser testing, accessibility testing, manual testing, and automation.
 - Develop and execute comprehensive and well-structured test plans.
