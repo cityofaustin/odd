@@ -57,7 +57,7 @@ The following are a plus but are not necessary:
 ## Minimum qualifications
 
 - Two years of relevant work experience.
-- Graduation from an accredited four-year college or university with major course work in a related field. An additional four years of experience can substitute this education requirement.
+- Graduation from an accredited four-year college or university with major course work in a related field, or equivalent work experience.
 
 Note: We are not able to sponsor H1-B visas.
 
