@@ -1,7 +1,7 @@
 ---
 title: Policy Lab Content Strategist
 is_fellow: true
-lever_link: 
+lever_link: https://boards.greenhouse.io/oddaustin/jobs/4614168002
 position: 2
 lede_markdown: "We’re looking for a senior content strategist to help us start up a new Policy Lab focused on creating and adopting principles, rules, and standards we need to deliver more human-centered and modern services for Austin residents."
 
