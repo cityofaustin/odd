@@ -1,7 +1,7 @@
 ---
-title: Content Strategist
+title: Policy Lab Content Strategist
 is_fellow: true
-lever_link: https://boards.greenhouse.io/oddaustin/jobs/4036303002
+lever_link: 
 position: 2
 lede_markdown: "We’re looking for a senior content strategist to help us start up a new Policy Lab focused on creating and adopting principles, rules, and standards we need to deliver more human-centered and modern services for Austin residents."
 
@@ -13,11 +13,19 @@ Our teams are working to improve a wide range of city services, including resear
 
 This position is part of a new Policy Lab we are starting within the [Office of Design & Delivery](http://odd.austintexas.io/). Our Policy Lab aims to create, adopt, and share principles, standards, and guidance that support and scale more human-centered and modern digital services for Austin residents. You will play a critical role in standing up our team, developing and demonstrating new approaches to City policy, and sharing practices across the City government.
 
-## Salary		
+## Salary and benefits	
 
-$70,000-$80,000, commensurate with experience		
+* $70,000-$80,000, commensurate with experience
+* Flexible hours and remote work days
+* City employee discounts and perks (free transit pass for buses and metro, free admission to Barton Springs, and more)
 
-## What you’ll do:		
+This is a full time, 40-hour/week position with no term limit. However, it is designated as a "temporary position" within the City. This means:
+
+* No health insurance offered during the first year of employment
+* No paid vacation offered, but temporary employees can take unpaid time off as needed
+* Learn more about benefits here: https://odd.austintexas.io/join/information/benefits/
+
+## What you’ll do	
 
 * Serve on multidisciplinary teams to concept, prototype, and implement content solutions for complex policy issues (for example, accessible and plain-language translations of complicated policy documents)
 * Engage with internal and external users and participate in planning thoughtful and ethical user research and usability testing of what we create
