@@ -37,6 +37,7 @@ $70,000-$80,000, commensurate with experience
 ## What we’re looking for		
 
 *   Three years of professional experience designing content for online experiences, websites, applications, or advertising 
+*   Experience implementing content translation workflows
 *   Knowledge of lean and agile design methodologies, including expertise in determining when and how to use specific approaches, deliverables, and facilitation methods 
 *   Ability to engage with a wide range of digital specialists, subject-matter experts, stakeholders, and the public to produce best-in-class solutions 
 *   Experience analyzing and participating in qualitative user research
