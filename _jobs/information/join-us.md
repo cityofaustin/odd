@@ -12,6 +12,7 @@ We have openings for these roles right now:
 
 * An [Agile QA Engineer](/join/positions/QA-engineer/) to work on projects like [alpha.austin.gov](http://alpha.austin.gov/).
 * A [Content Strategist](/join/positions/policy-content-strategist/) to help create more human-centered and modern policy as part of a new Policy Lab team.
+* A [Content Strategist](/join/positions/content-strategist/) with a focus on Spanish content and English-Spanish translation.
 
 Our terms are for 12 months of full-time work (40 hours each week), with opportunities to apply for permanent positions at the city. [Learn about Benefits](/join/information/benefits/)
 
