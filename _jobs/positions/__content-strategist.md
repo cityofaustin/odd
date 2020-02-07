@@ -1,7 +1,7 @@
 ---
 title: Content Strategist (Spanish)
 is_fellow: true
-lever_link: https://boards.greenhouse.io/oddaustin/jobs/4036303002
+lever_link: https://boards.greenhouse.io/oddaustin/jobs/4644527002
 position: 1
 lede_markdown: "We’re looking for a content strategist with a focus on Spanish content and English-Spanish translation to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design."
 
