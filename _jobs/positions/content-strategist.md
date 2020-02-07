@@ -22,7 +22,7 @@ $70,000-$80,000, commensurate with experience
 ## What you’ll do:		
 
 *   Serve on multidisciplinary teams to concept, prototype, test, and implement content solutions for city services. 
-*   Guide the editorial voice for Spanish language content 
+*   Guide the editorial voice for Spanish language content.
 *   Work with our in-house service design team to design and implement a process to translate content and do usability testing on translated content that ensures it is readable and understandable. 
 *   Identify and model content types for websites, applications, printed resources, and in-person transactions. 
 *   Demonstrate expertise in service-oriented language and draft (a lot) of pages to help residents find the services and information they need.  
