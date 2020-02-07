@@ -1,7 +1,7 @@
 ---
-title: Content Strategist
+title: Content Strategist (Spanish)
 is_fellow: true
-lever_link: https://boards.greenhouse.io/oddaustin/jobs/4036303002
+lever_link: https://boards.greenhouse.io/oddaustin/jobs/4644527002
 position: 1
 lede_markdown: "We’re looking for a content strategist with a focus on Spanish content and English-Spanish translation to serve on multidisciplinary project teams with career civil servants, actively demonstrating the value of iterative development and user-centered design."
 
@@ -22,9 +22,9 @@ $70,000-$80,000, commensurate with experience
 ## What you’ll do:		
 
 *   Serve on multidisciplinary teams to concept, prototype, test, and implement content solutions for city services. 
+*   Guide the editorial voice for Spanish language content 
 *   Work with our in-house service design team to design and implement a process to translate content and do usability testing on translated content that ensures it is readable and understandable. 
 *   Identify and model content types for websites, applications, printed resources, and in-person transactions. 
-*   Design content production workflows and documentation based on the needs of stakeholders and department staff. 
 *   Demonstrate expertise in service-oriented language and draft (a lot) of pages to help residents find the services and information they need.  
 *   Guide and coach team members and stakeholders on content strategy and writing for the web, especially colleagues who are taking on new tasks and roles. 
 *   Pursue continuing engagement with internal and external users, and participate in planning thoughtful and ethical user research. 
