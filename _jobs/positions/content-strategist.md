@@ -36,6 +36,12 @@ $70,000-$80,000, commensurate with experience
 
 ## What we’re looking for		
 
+*   Native or near-native fluency in Spanish grammar, syntax, punctuation, and spelling
+*   Experience ensuring that translations from English reflect intended meaning and resonate with target audiences
+*   1+ year(s) of experience in proofreading and editing Spanish web content; agency or consultancy experience is helpful but not required
+*   Experience or interest in learning Spanish keyword research and SEO writing
+*   Familiarity with U.S. and especially Texas Spanish-language conventions and with adhering to and maintaining style guides
+*   Interest in creating and iterating on a process for a translation memory for austin.gov
 *   Three years of professional experience designing content for online experiences, websites, applications, or advertising 
 *   Experience implementing content translation workflows
 *   Knowledge of lean and agile design methodologies, including expertise in determining when and how to use specific approaches, deliverables, and facilitation methods 
