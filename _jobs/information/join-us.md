@@ -8,7 +8,8 @@ lede_markdown: We are a team of passionate, civic-minded professionals who work 
 ---
 
 
-We currently have no open roles right now.
+We currently have no open roles.
+
 
 
 Our terms are for 12 months of full-time work (40 hours each week), with opportunities to apply for permanent positions at the city. [Learn about Benefits](/join/information/benefits/)
