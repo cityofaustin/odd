@@ -51,6 +51,7 @@ It's okay if you're unfamiliar with some of these technologies. That's been the 
 
 ## What we're looking for
 
+- 3-5+ years of professional experience developing large-scale applications and services
 - Commitment to making what we build fully accessible to the people we serve
 - Engagement with a wide range of digital specialists and stakeholders to define the best approaches to a problem
 - Ability to assist in scoping and prototyping activities for future design and development projects
