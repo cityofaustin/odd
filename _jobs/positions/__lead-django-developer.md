@@ -37,7 +37,6 @@ Learn more about benefits here: [https://odd.austintexas.io/join/information/be
 ## What you’ll do:
 We're looking for a manager and mentor for a team of 4 developers working on the alpha.austin.gov project. The person in this role will also serve as an individual contributor as the lead Django developer for our Wagtail installation. Experience with the other parts of our tech stack is also highly valued:
 
-- Wagtail / Django on the back-end
 - React.js on the front-end
 - Graphql for our API
 - CircleCI for continuous integration
