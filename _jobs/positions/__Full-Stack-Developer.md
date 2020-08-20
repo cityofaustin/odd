@@ -11,7 +11,7 @@ lede_markdown: "We’re looking for a mid to senior Full Stack developer to serv
 
 We're a team of passionate, civic-minded professionals who work to bring the principles, values, and practices of the technology sector into government with one goal in mind - improving the lives of Austin’s residents.
 
-We’re looking for a mid to senior Full Stack developer to serve on a multidisciplinary project team, with career civil servants, actively demonstrating the value of iterative development and user-centered design. Compassionate and talented developers interested in helping with frontend development (React.js, CSS/SCSS), backend development (Django, Python, node.js), or devops (AWS, Heroku) are strongly encouraged to apply.
+We’re looking for a Texas residing mid to senior Full Stack developer to serve on a multidisciplinary project team, with career civil servants, actively demonstrating the value of iterative development and user-centered design. Compassionate and talented developers interested in helping with frontend development (React.js, CSS/SCSS), backend development (Django, Python, node.js), or devops (AWS, Heroku) are strongly encouraged to apply.
 
 Our primary project is creating the next generation official City of Website website. We're designing a public sector focused Content Management System written in Wagtail, a Django-based open source CMS. We're empowering civil servants to publish complex content in a simple way, connecting residents to the services and information that they need.
 
@@ -31,6 +31,7 @@ Learn more about our tech stack:
 
 This is a full time, 40-hour/week fellowship with no term limit. However, it is designated as a "temporary position" within the City. This means:
 
+- Only residents of the state of Texas can apply
 - No health insurance offered during the first year of employment
 - No paid vacation offered, but temporary employees can take unpaid time off as needed
 
