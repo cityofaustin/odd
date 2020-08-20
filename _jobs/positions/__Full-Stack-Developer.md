@@ -37,6 +37,12 @@ This is a full time, 40-hour/week fellowship with no term limit. However, it is 
 
 Learn more about benefits here: [https://odd.austintexas.io/join/information/benefits/]
 
+## What to expect in the interview process
+
+- If you are among our top candidates, a team member of the Office of Design & Delivery will contact you to complete a coding challenge.
+- If you are selected to continue in the interview process based on your coding challenge, a team member will contact you to schedule a phone screening.
+- If you are selected to continue in the interview process based on your coding challenge, a team member will contact you to schedule an online interview with team members.
+
 ## What you'll do
 
 We need someone who can jump into our stack:
