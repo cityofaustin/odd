@@ -1,7 +1,7 @@
 ---
 title: Lead Django Developer
 is_fellow: true
-lever_link:
+lever_link: https://airtable.com/shryl0VLVD5uAUend
 position: 10
 lede_markdown: We’re looking for skilled manager and mentor to lead engineering practices for City of Austin’s Design, Technology, and Innovation Fellows program.
 ---
