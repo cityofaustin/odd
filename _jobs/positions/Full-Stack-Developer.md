@@ -16,11 +16,11 @@ We’re looking for a Texas residing mid to senior Full Stack developer to serve
 Our primary project is creating the next generation official City of Website website. We're designing a public sector focused Content Management System written in Wagtail, a Django-based open source CMS. We're empowering civil servants to publish complex content in a simple way, connecting residents to the services and information that they need.
 
 Learn more about our tech stack:
-- The website we're building: https://alpha.austin.gov
-- Janis (react static site that renders the pages that authors create): https://github.com/cityofaustin/janis
-- Joplin (where content authors create those pages): https://github.com/cityofaustin/joplin
-- Wagtail CMS: https://wagtail.io/
-- About the Office of Design and Delivery: https://odd.austintexas.io/
+- The website we're building: [https://alpha.austin.gov](https://alpha.austin.gov)
+- Janis (react static site that renders the pages that authors create): [https://github.com/cityofaustin/janis](https://github.com/cityofaustin/janis)
+- Joplin (where content authors create those pages): [https://github.com/cityofaustin/joplin](https://github.com/cityofaustin/joplin)
+- Wagtail CMS: [https://wagtail.io/](https://wagtail.io/)
+- About the Office of Design and Delivery: [https://odd.austintexas.io/](https://odd.austintexas.io/)
 
 ## Salary and Benefits
 
@@ -35,7 +35,7 @@ This is a full time, 40-hour/week fellowship with no term limit. However, it is 
 - No health insurance offered during the first year of employment
 - No paid vacation offered, but temporary employees can take unpaid time off as needed
 
-Learn more about benefits here: [https://odd.austintexas.io/join/information/benefits/]
+Learn more about benefits here: [https://odd.austintexas.io/join/information/benefits/](https://odd.austintexas.io/join/information/benefits/)
 
 ## What to expect in the interview process
 
