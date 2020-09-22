@@ -13,7 +13,7 @@ Our terms are for 12 months of full-time work (40 hours each week), with opportu
 
 
 We are looking for 
-* a lead django developer to lead engineering practices for City of Austin’s Design, Technology, and Innovation Fellows program [Learn more about the position](https://odd.austintexas.io/join/positions/lead-django-developer/) 
+* a lead django developer to lead engineering practices for City of Austin’s Office of Design & Delivery [Learn more about the position](https://odd.austintexas.io/join/positions/lead-django-developer/) 
 * a mid to senior Full Stack developer to serve on a multidisciplinary project team, with career civil servants, actively demonstrating the value of iterative development and user-centered design. [Learn more about the position](https://odd.austintexas.io/join/positions/Full-Stack-Developer/) 
 
 
