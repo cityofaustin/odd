@@ -19,9 +19,6 @@ In February 2018, [our City Council passed an ordinance](https://www.statesman.c
 ### Remote work
 We have a strong appreciation for the effectiveness of working remotely, with most team members working from home for one or two days each week.
 
-### Downtown, transit-friendly location
-In November 2017, we moved our offices to the former Faulk Central Library (800 Guadalupe St). Our teams also use conference rooms at City Hall (301 W 2nd Street), where our program was incubated for almost two years. We conduct field research and public meetings in neighborhoods throughout Austin to ensure that we're incorporating diverse perspectives into our work.
-
 ### Public transport
 City employees are eligible to receive free annual passes to ride Capital Metro buses and trains.
 
