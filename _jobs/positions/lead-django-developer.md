@@ -11,7 +11,7 @@ We're a team of passionate, civic-minded professionals who work to bring the pri
 
 We’re looking for a mid to senior Full Stack developer to serve on a multidisciplinary project team, with career civil servants, actively demonstrating the value of iterative development and user-centered design. Compassionate and talented developers interested in helping with frontend development (React.js, CSS/SCSS), backend development (Django, Python, node.js), or devops (AWS, Heroku) are strongly encouraged to apply.
 
-Our primary project is creating the next generation official City of Website website. We're designing a public sector focused Content Management System written in Wagtail, a Django-based open source CMS. We're empowering civil servants to publish complex content in a simple way, connecting residents to the services and information that they need.
+Our primary project is creating the next generation official City of Austin website. We're designing a public sector focused Content Management System written in Wagtail, a Django-based open source CMS. We're empowering civil servants to publish complex content in a simple way, connecting residents to the services and information that they need.
 
 Learn more about our tech stack:
 - The website we're building: [https://alpha.austin.gov](https://alpha.austin.gov)
