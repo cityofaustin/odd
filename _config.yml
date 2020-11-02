@@ -60,6 +60,7 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
+  - github-pages
 
 # Jekyll SEO Tag
 # See https://github.com/jekyll/jekyll-seo-tag

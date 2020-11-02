@@ -1,1 +1,1 @@
-{"/join/information/":"/join","/join/positions/":"/join"}
+{"/join/information/":"http://localhost:4000/join","/join/positions/":"http://localhost:4000/join"}
